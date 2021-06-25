@@ -56,7 +56,9 @@ Modalités de Travail : Individuel
 
 5 - Type du Projet: Woocommerce Website. 
 
-6 - Téléchargement du plugin ELEMENTOR PRO - TranslatePress - Yoast SEO - Woocommerce - Jetpack - WPS HIDE LOGIN - WPScan
+6 - Téléchargement du plugin ELEMENTOR PRO - TranslatePress - Yoast SEO - Woocommerce - Jetpack - WPS HIDE LOGIN - WPScan.
+
+-- * Woocommerce:  *-- 
 
 7 - Importer un Theme qui s'appel Betheme, demo: BeClothing
 
