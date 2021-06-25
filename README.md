@@ -5,7 +5,7 @@ Vous êtes amenés à creer votre site E-commerce avec WordPress et le plugin -W
 
 ​
 
-Travail à faire:
+# Travail à faire:
 
 Installer Wordpress après le téléchargement de son code source.
 
