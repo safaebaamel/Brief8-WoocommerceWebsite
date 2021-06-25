@@ -1,6 +1,45 @@
 # Brief8-WoocommerceWebsite
 
 # CONTEXT DU PROJET
+Vous êtes amenés à creer votre site E-commerce avec WordPress et le plugin -WooCommerce-
+
+​
+
+Travail à faire:
+
+Installer Wordpress après le téléchargement de son code source.
+
+Créer la base de données qui sera utilisé par wordpress pour création de ses tables.
+
+Créer des utilisateurs avec différent rôles.
+
+Chercher et installer un thème E-commerce de votre choix compatible avec le plugin WooCommerce
+
+Installer le plugin WooCommerce
+
+Créer votre boutique en ligne:
+
+Configurez des catégories et des produits(titre, image, prix)
+
+ajouter des coupon de réduction
+
+minimun 20 produits avec différentes variations ex produits en promo...
+
+Créer des comptes utilisateurs 'clients' et 'administrateurs'
+
+Ajoutez d’autres plugins pour faire
+
+le marketing SEO
+
+multilingue
+
+RGPD (Règlement Général pour la Protection des Données).
+
+Modalités pédagogiques
+Temporalité : 3 jours
+
+Modalités de Travail : Individuel
+
 
 ---------------------------------------------------
 
