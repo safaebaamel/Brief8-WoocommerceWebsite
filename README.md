@@ -56,7 +56,7 @@ Modalités de Travail : Individuel
 
 5 - Type du Projet: Woocommerce Website. 
 
-6 - Téléchargement du plugin ELEMENTOR PRO - TranslatePress - Yoast SEO - Woocommerce - Jetpack - WPS HIDE LOGIN - WPScan.
+6 - Téléchargement du plugin ELEMENTOR PRO - TranslatePress - Yoast SEO - Woocommerce - WPS HIDE LOGIN - WPScan.
 
 -- * Woocommerce:  WooCommerce est la solution de commerce électronique open source la plus populaire au monde . Que vous lanciez une entreprise, que vous mettiez en ligne la vente au détail de briques et de mortier ou que vous développiez des sites pour des clients, utilisez WooCommerce pour un magasin qui allie puissamment contenu et commerce.
 
