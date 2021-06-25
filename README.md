@@ -66,7 +66,13 @@ Présentez les produits physiques et numériques, les variations de produits, le
 Atteignez le sommet des résultats de recherche en tirant parti de l'avantage SEO de WordPress .
 *-- 
 
+-- * TranslatePress : Une meilleure façon de traduire votre site WordPress directement depuis le front-end, avec une prise en charge complète de WooCommerce, des thèmes complexes et des constructeurs de sites. Un plugin de traduction WordPress facile à utiliser pour changer * -- 
 
+-- * Yoast SEO: Le plugin Yoast SEO permet à votre site de répondre facilement aux normes de référencement techniques les plus élevées. Il vous donne également les outils pour amener votre contenu aux normes les plus élevées de référencement et de lisibilité globale. Ici, nous allons discuter de la façon dont notre plugin vous aide à créer le meilleur site Web possible ! * --
+
+-- * WPSCAN: WPScan est un scanner de vulnérabilité WordPress en boîte noire qui peut être utilisé pour analyser les installations WordPress à distance afin de détecter les problèmes de sécurité.* --
+
+-- *WPS HIDE LOGIN: WPS Hide Login est un plugin WordPress qui crée une page de connexion administrateur secrète. Cela empêche les pirates d'attaquer la page de connexion de l'administrateur avec une attaque de devinette de mot de passe puisque la page de connexion est masquée. La vulnérabilité permet à un pirate informatique de faire en sorte que le plugin révèle l'URL de la page cachée. * --
 
 7 - Importer un Theme qui s'appel Betheme, demo: BeClothing
 
@@ -74,4 +80,14 @@ Atteignez le sommet des résultats de recherche en tirant parti de l'avantage SE
 
 9 - Creation des utilisateurs.
 
-10 - 
+10 - Ajout des catégories et des produits (20 produits et 2 catégories).
+
+11 - Activation du Plugin TranslatePress et traduire les pages du Projet.
+
+12 - Création des coupons codes (7 coupons).
+
+13 - Recherche sur RGPD, sécurité d'un site web.
+
+14 - Configuration du SEO.
+
+15 - Ajout d'une méthode de payment.
