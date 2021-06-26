@@ -56,7 +56,7 @@ Modalités de Travail : Individuel
 
 5 - Type du Projet: Woocommerce Website. 
 
-6 - Téléchargement du plugin ELEMENTOR PRO - TranslatePress - Yoast SEO - Woocommerce - WPS HIDE LOGIN - WPScan.
+6 - Téléchargement du plugin ELEMENTOR PRO - TranslatePress - Yoast SEO - Woocommerce - WPS HIDE LOGIN - WPScan - Cookie Notice & Compliance for GDPR / CCPA.
 
 -- * Woocommerce:  WooCommerce est la solution de commerce électronique open source la plus populaire au monde . Que vous lanciez une entreprise, que vous mettiez en ligne la vente au détail de briques et de mortier ou que vous développiez des sites pour des clients, utilisez WooCommerce pour un magasin qui allie puissamment contenu et commerce.
 
@@ -64,7 +64,7 @@ Créez de belles vitrines attrayantes avec des thèmes adaptés à votre marque 
 Personnalisez les pages en quelques minutes à l' aide de blocs de produits modulaires .
 Présentez les produits physiques et numériques, les variations de produits, les configurations personnalisées, les téléchargements instantanés et les articles affiliés. Les réservations , les adhésions , les abonnements et les règles de tarification dynamique ne sont qu'une extension.
 Atteignez le sommet des résultats de recherche en tirant parti de l'avantage SEO de WordPress .
-*-- 
+* -- 
 
 -- * TranslatePress : Une meilleure façon de traduire votre site WordPress directement depuis le front-end, avec une prise en charge complète de WooCommerce, des thèmes complexes et des constructeurs de sites. Un plugin de traduction WordPress facile à utiliser pour changer * -- 
 
@@ -73,6 +73,8 @@ Atteignez le sommet des résultats de recherche en tirant parti de l'avantage SE
 -- * WPSCAN: WPScan est un scanner de vulnérabilité WordPress en boîte noire qui peut être utilisé pour analyser les installations WordPress à distance afin de détecter les problèmes de sécurité.* --
 
 -- *WPS HIDE LOGIN: WPS Hide Login est un plugin WordPress qui crée une page de connexion administrateur secrète. Cela empêche les pirates d'attaquer la page de connexion de l'administrateur avec une attaque de devinette de mot de passe puisque la page de connexion est masquée. La vulnérabilité permet à un pirate informatique de faire en sorte que le plugin révèle l'URL de la page cachée. * --
+
+-- * Cookie Notice & Compliance for GDPR / CCPA: L'avis sur les cookies fournit une bannière de site Web simple et personnalisable qui peut être utilisée pour aider votre site Web à se conformer à certaines exigences de consentement aux cookies en vertu de la loi sur les cookies de l'UE GDPR et des réglementations CCPA. * -- 
 
 7 - Importer un Theme qui s'appel Betheme, demo: BeClothing
 
